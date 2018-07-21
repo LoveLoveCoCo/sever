@@ -1,0 +1,87 @@
+[01:32:17] [Server thread/INFO]: Starting minecraft server version 1.10.2
+[01:32:17] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: 控制代碼無效。
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_181]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_181]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_181]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_181]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_181]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_181]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_181]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_181]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_181]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_181]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_181]
+	at net.minecraft.server.dedicated.DedicatedServer$2.run(DedicatedServer.java:101) [ld$2.class:?]
+[01:32:36] [Server thread/INFO]: Loading properties
+[01:32:36] [Server thread/INFO]: Default game type: SURVIVAL
+[01:32:36] [Server thread/INFO]: Generating keypair
+[01:32:36] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:32:36] [Server thread/INFO]: Using default channel type
+[01:32:36] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:32:36] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:32:36] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:32:36] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:32:41] [Server thread/INFO]: Preparing level "world"
+[01:32:43] [Server thread/INFO]: Preparing start region for level 0
+[01:32:44] [Server thread/INFO]: Preparing spawn area: 12%
+[01:32:45] [Server thread/INFO]: Preparing spawn area: 63%
+[01:32:45] [Server thread/INFO]: Done (4.181s)! For help, type "help" or "?"
+[01:32:53] [Server thread/INFO]: Love_CoCo[/25.77.142.114:3699] logged in with entity id 459 at (-68.96666376111581, 73.0, 184.69999998807907)
+[01:32:53] [Server thread/INFO]: Love_CoCo joined the game
+[01:33:08] [Server thread/WARN]: Keeping entity shincolle.EntityAirfieldHime that already exists with UUID 490907b6-7929-432a-bec9-8124fb8ad627
+[01:33:11] [Server thread/INFO]: Sanarasha[/25.84.164.75:52076] logged in with entity id 464 at (-66.8262292282587, 72.0, 183.64686917825009)
+[01:33:11] [Server thread/INFO]: Sanarasha joined the game
+[01:33:59] [Server thread/WARN]: Keeping entity shincolle.EntityCarrierWD that already exists with UUID 3276e52a-c5ef-4abe-8066-d92f1cf2fe82
+[01:34:28] [Server thread/INFO]: [Sanarasha: Set game difficulty to Peaceful]
+[01:36:36] [Server thread/WARN]: Keeping entity shincolle.EntityAirfieldHime that already exists with UUID 2924336c-c8ea-49dd-ab12-4d2b6b8301cc
+[01:40:29] [Server thread/INFO]: [Sanarasha: Set game difficulty to Easy]
+[01:40:38] [Server thread/WARN]: Keeping entity shincolle.EntityBattleshipYMTMob that already exists with UUID e7903f49-c402-42b3-b5cd-76b31d5af8ef
+[01:40:52] [Server thread/INFO]: [Sanarasha: Set game difficulty to Peaceful]
+[01:40:57] [Server thread/INFO]: [Sanarasha: Set game difficulty to Easy]
+[01:40:59] [Server thread/WARN]: Keeping entity shincolle.EntityBattleshipYMTMob that already exists with UUID adcc81e6-cc33-4f67-838d-bfbdbac66265
+[01:42:12] [Server thread/WARN]: Keeping entity shincolle.EntityBattleshipYMTMob that already exists with UUID 58d5f91a-6cbe-4c9f-ab15-555103808a47
+[01:45:24] [Server thread/WARN]: Keeping entity shincolle.EntityBattleshipYMTMob that already exists with UUID 818c6ceb-045a-4c11-9f66-99039528ca37
+[01:45:38] [Server thread/INFO]: [Sanarasha: Set game difficulty to Peaceful]
+[01:45:41] [Server thread/INFO]: [Sanarasha: Set game difficulty to Easy]
+[01:45:44] [Server thread/WARN]: Keeping entity shincolle.EntityBattleshipYMTMob that already exists with UUID b8d62e8e-8a51-47e4-aedb-7e2d27c2dcaf
+[01:46:35] [Server thread/INFO]: [Love_CoCo: Game rule mobGriefing has been updated to false]
+[01:46:38] [Server thread/INFO]: [Love_CoCo: Game rule keepInventory has been updated to true]
+[01:47:20] [Server thread/WARN]: Keeping entity shincolle.EntityCarrierWD that already exists with UUID c0021101-cfb2-4b15-9c64-89368150515a
+[01:50:00] [Server thread/WARN]: Keeping entity shincolle.EntityBattleshipYMTMob that already exists with UUID 4b85b2e8-9cc3-4ed1-8d05-1482facafd66
+[01:50:12] [Server thread/INFO]: [Sanarasha: Set game difficulty to Easy]
+[01:50:16] [Server thread/INFO]: [Sanarasha: Set game difficulty to Peaceful]
+[01:50:20] [Server thread/INFO]: [Sanarasha: Set game difficulty to Easy]
+[01:50:22] [Server thread/WARN]: Keeping entity shincolle.EntityBattleshipYMTMob that already exists with UUID 81c82696-0cf2-4217-b4dd-855072a2497b
+[01:53:32] [Server thread/WARN]: Keeping entity shincolle.EntityBattleshipYMTMob that already exists with UUID 6407f65c-d5a4-4245-ac92-7ed1f5ff98bf
+[01:53:47] [Server thread/WARN]: Keeping entity shincolle.EntityBattleshipYMTMob that already exists with UUID 20594640-5350-44bb-a4f3-f6c4ba0c201a
+[01:54:00] [Server thread/WARN]: Keeping entity shincolle.EntityBattleshipYMTMob that already exists with UUID 65b33031-401b-4a5a-b2b8-5f5f1b79397b
+[01:54:02] [Server thread/WARN]: Keeping entity shincolle.EntityBattleshipYMTMob that already exists with UUID a20a70f4-d3c8-4e03-8ca5-a541954d7bba
+[01:55:40] [Server thread/WARN]: Sanarasha moved too quickly! 7.832702260275562,0.0,7.11253542420755
+[01:55:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2881ms behind, skipping 57 tick(s)
+[01:55:42] [Server thread/WARN]: Sanarasha moved too quickly! 6.395232664557049,0.0,8.606551897733311
+[01:55:46] [Server thread/WARN]: Sanarasha moved too quickly! 5.102943339595168,0.0,8.682919795652083
+[01:55:46] [Server thread/WARN]: Love_CoCo moved too quickly! 1.012901234478747,9.937500740308806,1.7904078071804008
+[01:55:49] [Server thread/WARN]: Love_CoCo moved too quickly! 8.979604613376779,1.1017766438446586,4.477587049472845
+[01:55:50] [Server thread/WARN]: Love_CoCo moved too quickly! 9.593434760942074,0.0,4.499867058530725
+[01:55:50] [Server thread/WARN]: Sanarasha moved too quickly! 3.2210214824733754,0.0,9.700364132155642
+[01:55:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3568ms behind, skipping 71 tick(s)
+[01:56:15] [Server thread/INFO]: [Sanarasha: Set game difficulty to Peaceful]
+[01:56:50] [Server thread/WARN]: Keeping entity shincolle.EntityDestroyerShimakazeMob that already exists with UUID 2f6329bb-0c81-4a5a-8857-3774c1d436cf
+[01:56:52] [Server thread/WARN]: Keeping entity shincolle.EntityDestroyerShimakazeMob that already exists with UUID eea675e6-8d85-49ed-9659-ac7bba6b90d9
+[01:56:55] [Server thread/INFO]: [Sanarasha: Set game difficulty to Easy]
+[01:56:56] [Server thread/WARN]: Keeping entity shincolle.EntityDestroyerShimakazeMob that already exists with UUID af05f102-ac5f-42de-8a5b-b3bb90063ed3
+[01:58:29] [Server thread/INFO]: Love_CoCo lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[01:58:29] [Server thread/INFO]: Love_CoCo left the game
+[01:58:40] [Server thread/INFO]: Sanarasha lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: 遠端主機已強制關閉一個現存的連線。], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[01:58:40] [Server thread/INFO]: Sanarasha left the game
+[01:58:49] [Server thread/INFO]: Stopping the server
+[01:58:49] [Server thread/INFO]: Stopping server
+[01:58:49] [Server thread/INFO]: Saving players
+[01:58:49] [Server thread/INFO]: Saving worlds
+[01:58:49] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[01:58:49] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[01:58:49] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[01:58:49] [Server thread/INFO]: Saving chunks for level 'world'/Deep Dark
+[01:58:49] [Server thread/INFO]: Saving chunks for level 'world'/ExtraUtils2_Quarry_Dim
+[01:58:49] [Server Shutdown Thread/INFO]: Stopping server
