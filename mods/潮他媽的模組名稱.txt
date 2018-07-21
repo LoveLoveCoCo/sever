@@ -1,0 +1,53 @@
+艦娘
+	ShinColle-1.10.2.7.1
+拔刀劍
+	SlashBlade-PFLMCompat-mc1.10.2-1.0
+	SlashBlade-mc1.10.2-r39
+AE+擴充
+	appliedenergistics2-rv4-stable-1
+	appliedenergistics2-rv4-stable-1-api
+	ExtraCells-1.10.2-2.4.2aNIGHTLY
+	WirelessCraftingTerminal-1.10.2-2.1.49
+	p455w0rdslib-1.10.2-1.0.9
+開放式方塊
+	OpenBlocks-1.10.2-1.7.6
+	OpenModsLib-1.10.2-0.11.5
+小地圖
+	journeymap-1.10.2-5.4.7
+NEI JEI
+	CodeChickenLib-1.10.2-2.5.9.320-universal
+	CodeChickenCore-1.10.2-2.4.1.102-universal
+	jei_1.10.2-3.14.8.422
+	NotEnoughItems-1.10.2-2.1.3.220-universal
+菁英怪
+	InfernalMobs-1.10.2
+殭屍意志
+	zombieawareness-1.10.2-1.11.8
+	coroutil-1.10.2-1.1.18
+Tinker
+	TConstruct-1.10.2-2.6.3
+	Mantle-1.10.2-1.1.5
+Waila輔助模組
+	Waila-1.7.0-B3_1.9.4
+	WailaHarvestability-mc1.10.2-1.1.10
+	World-Tooltips-1.10.2-1.2.3-79
+竹模組
+	Bamboo-3.0.0.12.2
+FPS增強
+	BetterFps-1.4.5-1.10
+高清補丁
+	OptiFine-1.10.2_HD_U_E7
+天使方塊
+	extrautils2-1.10.2-1.8.1
+TE能量
+	ThermalExpansion-1.10.2-5.1.10.28-universal
+	ThermalFoundation-1.10.2-2.1.5.12-universal
+	CoFHCore-1.10.2-4.1.12.17-universal
+更多箱子
+	ironchest-1.10.2-7.0.12.801
+更多怪物
+	EnderZoo-1.10-1.2.3.44
+	EnderCore-1.10.2-0.4.1.65-beta
+怪物肢解
+	MobDismemberment-1.10.2-6.0.0
+	iChunUtil-1.10.2-6.5.0
